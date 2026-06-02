@@ -1,0 +1,22 @@
+Instalasi WSL
+Power Shell, pilih run administrator
+instalasi dengan wsl --install
+wsl --update
+
+instalasi docker
+cari fitur "Turn Windows features on or off"
+aktifkan "Virtual Machine Platform" dan"Windows subsystem for Linux"
+ketik docker
+pilih "unduh docker desktop" untuk untuk and 64
+masuk docker lalu daftar 
+jalankan perintah "docker run hello-word" lalu periksa image dan container 
+cari image hello-word gunakan fitur docker hub
+
+perintah dasar docker
+buka Power Shell
+Docker pula nginx:latest
+
+cari image nginx, lalu jalankan docker pull nginx :latest
+docker ps
+docker ps-a
+docker image
