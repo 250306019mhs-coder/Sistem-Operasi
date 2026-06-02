@@ -1,0 +1,28 @@
+Download Ubuntu server dan Putry
+Membuat Machine di VirtualBox untuk Ubuntu server
+Setting processor dan Memori
+Setting network Adapter 1 dan 2
+setelah login
+
+ls
+ssh
+ifconig
+install net tools
+clear
+
+
+install Putty
+open aplikasi, klik host name) ip adress sesuai jaringan
+menulis host name 192.160.0.33
+accept
+input ip adress yang digunakan sesuai Ubuntu server
+konfigurasi berhasil
+ip adress yang digunakan yaitu 192.169.0.33
+
+Langkah-langkah ip adress di terminal
+masuk terminal, ketik "ifconig"
+
+Langkah-langkah ip adress di windows
+setting
+netwok & internet
+hardware dsb connection properties
